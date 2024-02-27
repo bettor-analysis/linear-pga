@@ -213,9 +213,9 @@ summary(lm_model)
 # -1.29554 -0.23818 -0.02254  0.19146  1.40926 
 # 
 # Coefficients:
-#   Estimate Std. Error t value Pr(>|t|)    
-# (Intercept) 70.62784    0.01063 6646.52   <2e-16 ***
-#   STGAIND     -0.79668    0.01426  -55.87   <2e-16 ***
+#               Estimate   Std. Error   t value    Pr(>|t|)    
+# (Intercept)   70.62784    0.01063     6646.52   <2e-16 ***
+#   STGAIND     -0.79668    0.01426      -55.87   <2e-16 ***
 #   ---
 #   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 # 
